@@ -1,5 +1,5 @@
 %% DCEC - Evaluation Work Block 1: 1st Order Switched-Capacitor Filter
-% Author: Jalbatron
+% Author: Jalbraton
 % Date: October 2026
 % Description: Matlab script to analyze the frequency response, pole/zero 
 % locations, and time-domain transient response of a 1st order SC filter.
